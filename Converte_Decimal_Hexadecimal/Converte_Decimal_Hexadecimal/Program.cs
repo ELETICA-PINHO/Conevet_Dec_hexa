@@ -93,44 +93,7 @@ namespace Converte_Decimal_Hexadecimal
             {
                 Console.WriteLine("Valor não é permitido tente novamente, 0 a 300");
                 Console.ReadLine();
-            }  // else 0 30
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            }  // else 0 300
 
         }
     }
