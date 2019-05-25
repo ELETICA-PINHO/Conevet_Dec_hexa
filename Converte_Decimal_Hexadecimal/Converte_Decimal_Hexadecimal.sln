@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converte_Decimal_Hexadecimal", "Converte_Decimal_Hexadecimal\Converte_Decimal_Hexadecimal.csproj", "{772BD2CA-55B1-4431-9E77-9A2CC181911C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772BD2CA-55B1-4431-9E77-9A2CC181911C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772BD2CA-55B1-4431-9E77-9A2CC181911C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772BD2CA-55B1-4431-9E77-9A2CC181911C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772BD2CA-55B1-4431-9E77-9A2CC181911C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F888F0-5453-44AF-A39F-A7BE9F47D3A9}
+	EndGlobalSection
+EndGlobal
